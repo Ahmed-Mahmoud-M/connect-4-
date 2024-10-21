@@ -1,7 +1,9 @@
-from view import view
+from models import model
 
 
-
-window = view.view()
+if __name__ == '__main__':
+    m = model.grid()
+    print(m.printGrid())
+    
 
 

@@ -15,3 +15,10 @@ class view:
         option_3 = tk.Button(root, text = "computer vs computer", command=lambda: print("computer vs computer!"))
         option_3.pack(pady=10)
         root.mainloop()
+
+
+
+
+
+
+
